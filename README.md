@@ -49,6 +49,6 @@ A passionate frontend developer from India 🇮🇳
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Prakyatshetty-1&show_icons=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prakyatshetty-1&theme=radical&hide_border=true" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=Prakyatshetty-1&theme=radical&hide_border=true" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakyatshetty-1&layout=compact&theme=radical" />
 </p>
